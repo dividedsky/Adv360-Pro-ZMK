@@ -46,7 +46,7 @@
         &trans &trans &trans &trans &trans &trans  &none                                           &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans  &none        &trans &trans &trans &trans        &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans                      &trans &trans                     &trans &trans &trans &trans  &trans  &trans
-        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans              &kp C_VOL_UP2 &kp C_VOL_DN2 &trans  &trans  &trans
+        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans              &kp K_VOL_UP &kp K_VOL_DN &trans  &trans  &trans
       >;
     };
     mod {
